@@ -1,0 +1,17 @@
+.borderzero {
+    border: 0 none;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+.borderzero img{
+  margin-right: 5px;
+}
+.display-none{
+  display: none;
+}
+.searched-li{
+  cursor: pointer;
+}
+.full-width{
+  width: 100%;
+}
